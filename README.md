@@ -2,10 +2,10 @@
 
 # Leandro Santos Lopes (currículo)
 
-Rua 05A, Qd 11, Lote 15, Apto C, Novo Cohatrac, São José de Ribamar/MA
+Rua 05A, Qd 11, Lote 15, Apto C, Novo Cohatrac, São José de Ribamar/MA <br />
 36 anos / (98) 9 88275142 / programador.leandrolopes@gmail.com
 
-linkedin: [https://www.linkedin.com/in/programmer-leandrolopes](https://www.linkedin.com/in/programmer-leandrolopes "Perfil Profissional")
+linkedin: [https://www.linkedin.com/in/programmer-leandrolopes](https://www.linkedin.com/in/programmer-leandrolopes "Perfil Profissional") <br />
 github: [https://github.com/leandroslopes](https://github.com/leandroslopes "Pessoal") 
 
 ## Objetivos
@@ -33,5 +33,5 @@ PHP, Java, HTML, CSS, JavaScript, MySQL, PHPMyAdmin, Astah (UML), WordPress, Boo
 
 --- 
   
-Sentiu falta de algo importante em meu currículo?  
+Sentiu falta de algo importante em meu currículo? <br />
 [Envie-me uma mensagem ](https://github.com/leandroslopes "Envie-me uma mensagem ") e ajude-me a melhora-lo.
