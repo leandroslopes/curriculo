@@ -1,12 +1,10 @@
-(Outdated)
+# Leandro Santos Lopes
 
-# Leandro Santos Lopes (currículo)
-
-Rua 05A, Qd 11, Lote 15, Apto C, Novo Cohatrac, São José de Ribamar/MA <br />
+Rua K, Qd 13, 42, Residencial Novo Horizonte, Paço do Lumiar/MA <br />
 36 anos / (98) 9 88275142 / programador.leandrolopes@gmail.com
 
-linkedin: [https://www.linkedin.com/in/programmer-leandrolopes](https://www.linkedin.com/in/programmer-leandrolopes "Perfil Profissional") <br />
-github: [https://github.com/leandroslopes](https://github.com/leandroslopes "Pessoal") 
+Linkedin: [https://www.linkedin.com/in/programmer-leandrolopes](https://www.linkedin.com/in/programmer-leandrolopes "Perfil Profissional") <br />
+Github: [https://github.com/leandroslopes](https://github.com/leandroslopes "Pessoal") 
 
 ## Objetivos
 
@@ -29,9 +27,9 @@ Atividades: Análise e desenvolvimento da aplicação GambiFerias; Criação de 
 
 ## Linguagens/Ferramentas
 
-PHP, Java, HTML, CSS, JavaScript, MySQL, PHPMyAdmin, Astah (UML), WordPress, Bootstrap, Git, GitHub, JasperReports, Visual Studio Code, Microsoft Windows, Linux (Kubuntu e Ubuntu), Microsoft Office, LibreOffice
+PHP, Java, HTML, CSS, JavaScript, MySQL, PHPMyAdmin, Vue.js, Node.js, Astah (UML), WordPress, Bootstrap, Git, GitHub, JasperReports, Visual Studio Code, Microsoft Windows, Linux (Kubuntu e Ubuntu), Microsoft Office, LibreOffice
 
 --- 
   
 Sentiu falta de algo importante em meu currículo? <br />
-[Envie-me uma mensagem ](https://github.com/leandroslopes "Envie-me uma mensagem ") e ajude-me a melhora-lo.
+[Envie-me uma mensagem ](programador.leandrolopes@gmail.com "Envie-me uma mensagem ") e ajude-me a melhora-lo.
