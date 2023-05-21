@@ -3,6 +3,7 @@
 Rua 110, Qd 72, Casa 16, Conjunto Maiobão, Paço do Lumiar/MA <br />
 37 anos / (98) 9 88275142 / programador.leandrolopes@gmail.com
 
+ServiceNow: [https://nowlearning.servicenow.com/lxp?id=nl_public&user=leandroslopes](https://nowlearning.servicenow.com/lxp?id=nl_public&user=leandroslopes "ServiceNow Profile") <br/>
 LinkedIn: [https://www.linkedin.com/in/programmer-leandrolopes](https://www.linkedin.com/in/programmer-leandrolopes "Perfil Profissional") <br />
 GitHub: [https://github.com/leandroslopes](https://github.com/leandroslopes "My GitHub") <br />
 Currículo no GitHub: [https://github.com/leandroslopes/curriculo/](https://github.com/leandroslopes/curriculo/ "Currículo")
@@ -36,7 +37,7 @@ Bacharel em Sistemas de Informação - Faculdade Estácio de São Luís - 5° Pe
 
 ## Hard Skills
 
-<p align="justify">JavaScript, Vue.js, Vuetify, AngularJS, Node.js, Bootstrap, PHP, HTML, CSS, Java, MySQL, WordPress, Git, GitHub, Visual Studio Code, ServiceNow, iReport, Linux.</p>
+<p align="justify">JServiceNow Now Platform, JavaScript, AngularJS, Vue.js, Vuetify, Node.js, PHP, Bootstrap, HTML, CSS, JQuery, Git, GitHub, Java, Visual Studio Code, MySQL, WordPress, iReport, Distribuições Linux.</p>
 
 --- 
   
