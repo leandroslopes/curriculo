@@ -1,7 +1,7 @@
 # Leandro Santos Lopes
 
-Rua K, Qd 13, 42, Residencial Novo Horizonte, Paço do Lumiar/MA <br />
-36 anos / (98) 9 88275142 / programador.leandrolopes@gmail.com
+Rua 110, Qd 72, Casa 16, Conjunto Maiobão, Paço do Lumiar/MA <br />
+37 anos / (98) 9 88275142 / programador.leandrolopes@gmail.com
 
 LinkedIn: [https://www.linkedin.com/in/programmer-leandrolopes](https://www.linkedin.com/in/programmer-leandrolopes "Perfil Profissional") <br />
 GitHub: [https://github.com/leandroslopes](https://github.com/leandroslopes "My GitHub") <br />
@@ -15,9 +15,12 @@ Currículo no GitHub: [https://github.com/leandroslopes/curriculo/](https://gith
 
 Técnico em Programação de Computadores - IFMA - Conclusão: 2009
 
-Bacharel em Sistemas de Informação - Faculdade Estácio de São Luís - 5° Período - Início: 2018 (trancado)
+Bacharel em Sistemas de Informação - Faculdade Estácio de São Luís - 5° Período - Início: 2018 (Cursando)
 
 ## Experiências
+
+### ServiceNow Consultant - Capgemini (10/2022 - em curso)
+<p align="justify"><strong>Atividades:</strong> Desenvolvimento, implementação, testes automatizados, documentação e manutenção de portais e workspaces, e melhorias de design, na Now Platform fornecida pela ServiceNow, em conjunto com as tecnologias web JavaScript, AngularJS, JQuery, Bootstrap, AngularJS UI Bootstrap, Glyphicons e Font Awesome, utilizando os módulos como Studio e App Engine Studio.</p>
 
 ### JavaScript Developer - Intellective (intellective.co) (05/2022 - 10/2022)
 <p align="justify"><strong>Atividades:</strong> Desenvolvimento, implementação, documentação e manutenção de projetos de software, e desenvolvimento de layouts, templates e geração de conteúdos para websites e melhorias de design utilizando a Now Plataform fornecida pela ServiceNow, em conjunto com as tecnologias web como JavaScript, AngularJS, e Bootstrap.</p>
