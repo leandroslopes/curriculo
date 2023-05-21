@@ -32,12 +32,12 @@ Bacharel em Sistemas de Informação - Faculdade Estácio de São Luís - 5° Pe
 ### Programador Iniciante - FAENE (07/2011 - 06/2013)
 <p align="justify"><strong>Atividades:</strong> Desenvolvimento e manutenção do sistema web e do portal (site e central do aluno); Implementação dos módulos Graduação, Biblioteca e The Place (curso de inglês) no sistema web; Implementação de geração e baixa de boleto bancário; Criação e alteração de relatórios; Backup do banco de dados e dos arquivos fonte do sistema e do portal; Envio de e-mails em massa.</p>
 
-### Programador (Estágio) - TRE-MA (07/2009 - 12/2009)
+### Programador Trainee - TRE-MA (07/2009 - 12/2009)
 <p align="justify"><strong>Atividades:</strong> Análise e desenvolvimento da aplicação GambiFerias; Criação de relatórios com JasperReports; Acompanhar o desenvolvimento de sistemas; Aplicar testes em sistemas; Auxiliar na manutenção de sistemas; Cadastrar banco de dados; Documentar arquivos e sistemas; Realizar a correção de erros nos sistemas.</p>
 
 ## Hard Skills
 
-<p align="justify">JServiceNow Now Platform, JavaScript, AngularJS, Vue.js, Vuetify, Node.js, PHP, Bootstrap, HTML, CSS, JQuery, Git, GitHub, Java, Visual Studio Code, MySQL, WordPress, iReport, Distribuições Linux.</p>
+<p align="justify">ServiceNow Now Platform, JavaScript, AngularJS, Vue.js, Vuetify, Node.js, PHP, Bootstrap, HTML, CSS, JQuery, Git, GitHub, Java, Visual Studio Code, MySQL, WordPress, iReport, Distribuições Linux.</p>
 
 --- 
   
