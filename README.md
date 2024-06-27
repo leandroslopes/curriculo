@@ -1,7 +1,7 @@
 # Leandro Santos Lopes
 
 Rua 110, Qd 72, Casa 16, Conjunto Maiobão, Paço do Lumiar/MA <br />
-37 anos / (98) 9 88275142 / programador.leandrolopes@gmail.com
+38 anos / programador.leandrolopes@gmail.com
 
 ServiceNow: [https://nowlearning.servicenow.com/lxp?id=nl_public&user=leandroslopes](https://nowlearning.servicenow.com/lxp?id=nl_public&user=leandroslopes "ServiceNow Profile") <br/>
 LinkedIn: [https://www.linkedin.com/in/programmer-leandrolopes](https://www.linkedin.com/in/programmer-leandrolopes "Perfil Profissional") <br />
@@ -16,7 +16,7 @@ Currículo no GitHub: [https://github.com/leandroslopes/curriculo/](https://gith
 
 Técnico em Programação de Computadores - IFMA - Conclusão: 2009
 
-Bacharel em Sistemas de Informação - Faculdade Estácio de São Luís - 5° Período - Início: 2018 (Cursando)
+Bacharel em Sistemas de Informação - Faculdade Estácio de São Luís - 7° Período - Início: 2018 (Cursando)
 
 ## Experiências
 
